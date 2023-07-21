@@ -40,12 +40,12 @@
     <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/ios/50/undefined/django.png"/></a>
     <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
     <a href="https://www.rust-lang.org//"><img width="48" height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nf-7TC8cQrJ__td5IOWF2MfOqAtvHJYJj5A0-rc&s" alt="Rust language"/></a>
-    <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+    <a href="https://scikit-learn.org/stable/"><img width="48" height="48"src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
     </a>
-    <a href="https://pytorch.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png"/></a>
-    <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/></a>
+    <a href="https://pytorch.org/"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png"/></a>
+    <a href=""><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/></a>
     <a href=""><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/></a>
-    <a href=""><img src="https://cryptologos.cc/logos/history/polkadot-new-dot-logo-2020.svg"/></a>
+    <a href=""><img width="48" height="48" src="https://cryptologos.cc/logos/history/polkadot-new-dot-logo-2020.svg"/></a>
     <a href=""><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg"/></a>
     
     
