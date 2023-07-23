@@ -87,9 +87,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
+<a href = "https://www.linkedin.com/in/ram-ganesh-1b2189208/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Ramganesh_01" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "ramganesh.hashnode.dev" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
 </p>
 
 ## ❤ Views and Followers
