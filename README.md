@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ram ganesh</h1>
-<h3 align="center">I'm an undergrad Student from India who loves building things on innovative ideas.</h3>
+<h3 align="center">I'm a Bitcoin Enthusiast, and a Working Professional</h3>
 
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on 
+- Currently Taking up Chaincode BOSS Challenge 
+- 🔭 I've worked on 
     - **[Bitcoin Virtual Machine]()**
     - **[Resilient Decentralized communication & Data storage in swarm troops](https://github.com/IBC-Media/Team-Akash)**
     - Optimizing the performance of **[Multi-modal Depression Estimation](https://github.com/Ram-lankada/DepressionEstimation)**
